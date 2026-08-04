@@ -38,6 +38,8 @@ Este proyecto fue diseñado en torno a tres objetivos estratégicos orientados a
 * Establecer un modelo de gobernanza que garantice la entregabilidad dentro del presupuesto y plazos acordados.
 
 
+
+
 # ✈️ Project Charter & WBS: Reestructuración Web B2C/B2B - Empresa X
 
 ## 1. Resumen & Objetivo del Proyecto
