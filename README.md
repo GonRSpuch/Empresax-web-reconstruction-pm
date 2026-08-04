@@ -84,6 +84,24 @@ Toda la estructura metodológica, el Project Charter, la WBS y las capturas de l
 
 ---
 
+## 5. Herramientas y Stack de Gestión (Tools & Stack)
+
+* **Documentación & PRD:** Notion (Estructuración de Project Charter, PRD, User Stories y WBS).
+* **Gestión Ágil & Flujos:** Trello (Tablero Kanban para seguimiento de Backlog, Sprints y entregables).
+* **CMS & E-commerce Target:** WordPress / WooCommerce (Arquitectura de información para B2C/B2B).
+* **Analítica & Calidad:** Google Analytics 4 (GA4) para plan de medición de eventos y matriz de pruebas QA.
+
+---
+## 6. Control de Contingencias y Riesgos
+
+Partiendo de la investigación inicial completada, se identificaron los principales cuellos de botella del proyecto y sus planes de acción para cumplir con las 8 semanas de plazo:
+
+* **Dependencias y retrasos en IT (Bloqueos técnicos):** Si el equipo de desarrollo se atrasa en una funcionalidad base, se reasignan las prioridades en Trello para avanzar en tareas independientes (diseño, textos o estructura) sin congelar el proyecto.
+* **Control de cambios de alcance:** Si surgen nuevas ideas o funcionalidades durante el desarrollo, no se incorporan sobre la marcha; se documentan en Notion para planificarlas en una Fase 2.
+* **Tiempos de respuesta y aprobación:** Para evitar que la validación de los avances frene el flujo de trabajo, se fijaron ventanas de revisión de 48 horas con los stakeholders.
+
+---
+
 # ✈️ Project Charter & WBS: Reestructuración Web B2C/B2B - Empresa X
 
 ## 1. Resumen & Objetivo del Proyecto
