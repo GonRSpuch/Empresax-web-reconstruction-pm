@@ -1,3 +1,28 @@
+# Reestructuración Digital & Plataforma Turística (Empresa X)
+
+![Notion](https://img.shields.io/badge/Notion-PRD%20%26%20WBS-000000?style=flat-square&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-Kanban%20Board-0052CC?style=flat-square&logo=trello&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-WooCommerce-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/GA4-Tracking%20Plan-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Project Management](https://img.shields.io/badge/Role-Project%20Manager%20%2F%20Product%20Owner-blue?style=flat-square)
+
+**Gonzalo Rodriguez Spuch** — *Project Management / Product Ownership Portfolio Project* – 2026
+
+---
+
+## Table of Contents
+
+- [0. Descargo de Responsabilidad (Disclaimer)](#0-descargo-de-responsabilidad-disclaimer)
+- [1. Visión General del Proyecto (Project Overview)](#1-visión-general-del-proyecto-project-overview)
+- [2. Objetivos del Proyecto (Project Goals)](#2-objetivos-del-proyecto-project-goals)
+- [3. Estructura del Proyecto y Herramientas (Project Framework & Artifacts)](#3-estructura-del-proyecto-y-herramientas-project-framework--artifacts)
+- [4. Resumen Ejecutivo (Executive Summary)](#4-resumen-ejecutivo-executive-summary)
+- [5. Herramientas y Stack de Gestión (Tools & Stack)](#5-herramientas-y-stack-de-gestión-tools--stack)
+- [6. Control de Contingencias y Riesgos](#6-control-de-contingencias-y-riesgos)
+- [7. Project Charter & WBS: Reestructuración Web B2C/B2B](#-project-charter--wbs-reestructuración-web-b2cb2b---empresa-x)
+- [8. Tablero de Gestión (Trello Kanban)](#-tablero-de-gestión-trello-kanban)
+
+---
 
 ## 0. Descargo de Responsabilidad (Disclaimer)
 
