@@ -1,9 +1,13 @@
 # Reestructuración Digital & Plataforma Turística (Empresa X)
 
 ![Notion](https://img.shields.io/badge/Notion-PRD%20%26%20WBS-000000?style=flat-square&logo=notion&logoColor=white)
+
 ![Trello](https://img.shields.io/badge/Trello-Kanban%20Board-0052CC?style=flat-square&logo=trello&logoColor=white)
+
 ![WordPress](https://img.shields.io/badge/WordPress-WooCommerce-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
 ![Google Analytics 4](https://img.shields.io/badge/GA4-Tracking%20Plan-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
 ![Project Management](https://img.shields.io/badge/Role-Project%20Manager%20%2F%20Product%20Owner-blue?style=flat-square)
 
 **Gonzalo Rodriguez Spuch** — * Aspirante a Project Management Junior / Product Ownership Junior - Portfolio Project* – 2026
