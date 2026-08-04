@@ -23,7 +23,7 @@
 - [4. Resumen Ejecutivo (Executive Summary)](#4-resumen-ejecutivo-executive-summary)
 - [5. Herramientas y Stack de Gestión (Tools & Stack)](#5-herramientas-y-stack-de-gestión-tools--stack)
 - [6. Control de Contingencias y Riesgos](#6-control-de-contingencias-y-riesgos)
-- [7. Project Charter & WBS: Reestructuración Web B2C/B2B](#-project-charter--wbs-reestructuración-web-b2cb2b---empresa-x)
+- [7. Project Charter & WBS](#-project-charter--wbs-reestructuración-web-b2cb2b---empresa-x)
 - [8. Tablero de Gestión (Trello Kanban)](#-tablero-de-gestión-trello-kanban)
 
 ---
@@ -196,5 +196,5 @@ Liderar la reestructuración integral del sitio web e-commerce de una empresa de
 
 
 ---
-
+Tablero de Gestión (Trello Kanban)
 ![Tablero Trello](trello-empresa-x.png)
