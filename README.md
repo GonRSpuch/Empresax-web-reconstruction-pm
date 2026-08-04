@@ -1,3 +1,43 @@
+
+## 0. Descargo de Responsabilidad (Disclaimer)
+
+Toda la información y documentación presentada en este repositorio ha sido **completamente anonimizada y modificada (Empresa X)** para proteger la confidencialidad comercial y los acuerdos de confidencialidad (NDA). Los requerimientos, estructuras y entregables no representan la totalidad de la operación real de la empresa y tienen como único fin demostrar la metodología de gestión de proyectos y diseño de producto.
+
+---
+
+## 1. Visión General del Proyecto (Project Overview)
+
+Muchas empresas del sector turismo en España operan con sitios web y plataformas comerciales legacy que han quedado desactualizadas frente a las exigencias actuales del mercado digital. Con el tiempo, esto genera ineficiencias operativas, fricción en la experiencia de usuario (UX) e incapacidad para escalar el canal de ventas B2B con agencias y aliados comerciales.
+
+Este proyecto aborda estos desafíos mediante un **framework integral de Project Management / Product Ownership** para liderar la reestructuración digital de la plataforma. El objetivo es estructurar la estrategia desde la investigación inicial hasta la planificación ágil de la ejecución, alineando los objetivos de negocio con el desarrollo técnico sobre WordPress.
+
+Las soluciones y entregables desarrollados en este proyecto son de alto valor para:
+* **Equipos Comerciales y de Ventas:** Al habilitar una arquitectura B2C para cliente final y un canal B2B estructurado para agencias asociadas.
+* **Equipos de Desarrollo y UX/UI:** Al contar con un PRD (Documento de Requerimientos de Producto), historias de usuario y una WBS clara que elimina la ambigüedad en la fase de implementación.
+* **Dirección y Project Managers:** Al proveer visibilidad total del alcance, plazos y flujo de trabajo a través de un tablero Kanban transparente.
+
+---
+
+## 2. Objetivos del Proyecto (Project Goals)
+
+Este proyecto fue diseñado en torno a tres objetivos estratégicos orientados a profesionalizar la gestión del producto web y asegurar una ejecución predecible:
+
+### 1. Definición de Alcance & Arquitectura de Información
+* Investigar el mercado de turismo en España para identificar mejores prácticas de UX/UI.
+* Consolidar los requerimientos funcionales y de negocio en un **PRD** estructurado en Notion.
+* Diseñar la nueva arquitectura de información y la navegación del portal para canales B2C y B2B.
+
+### 2. Planificación Estratégica & WBS (Estructura de Desglose de Trabajo)
+* Desglosar el proyecto en módulos funcionales y entregables medibles a lo largo de un ciclo de 8 semanas.
+* Mapear la **WBS** para coordinar los esfuerzos del equipo de desarrollo, diseño y analítica.
+* Definir criterios de aceptación claros para el control de calidad (QA) antes de la puesta en producción.
+
+### 3. Gestión Ágil & Medición de Rendimiento
+* Estructurar el backlog y el flujo de trabajo en **Trello (Kanban)** para asegurar la transparencia del proceso de desarrollo.
+* Diseñar el plan de medición de eventos en **Google Analytics 4 (GA4)** para evaluar la adopción del portal y el embudo de conversión.
+* Establecer un modelo de gobernanza que garantice la entregabilidad dentro del presupuesto y plazos acordados.
+
+
 # ✈️ Project Charter & WBS: Reestructuración Web B2C/B2B - Empresa X
 
 ## 1. Resumen & Objetivo del Proyecto
