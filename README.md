@@ -132,7 +132,7 @@ Partiendo de la investigación inicial completada, se identificaron los principa
 
 ---
 
-## 7. Project Charter & WBS: Reestructuración Web B2C/B2B - Empresa X
+## 7. Project Charter & WBS
 
 ### 1. Resumen & Objetivo del Proyecto
 Liderar la reestructuración integral del sitio web e-commerce de una empresa del sector turismo en España (Empresa X) sobre WordPress. El objetivo es optimizar la plataforma para responder a una doble dinámica comercial: captación directa de clientes particulares (B2C) y facilitación del canal de venta para agencias minoristas colaboradoras (B2B), incrementando la conversión y reduciendo la carga operativa mediante funciones de autoservicio y analítica avanzada (GA4).
