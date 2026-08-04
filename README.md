@@ -59,3 +59,11 @@ Liderar la reestructuración integral del sitio web e-commerce de una empresa de
 - [ ] Setup de Google Analytics 4 (GA4) y tracking de eventos (clics B2B/B2C, acordeones, PDFs).
 - [ ] Pruebas de usabilidad mobile y testeo del flujo de reserva de agencias.
 - [ ] Validación final con Dirección y paso a producción.
+
+
+
+---
+
+## 📊 Flujo de Trabajo en Trello (Kanban)
+
+![Tablero de Trello](trello1.png)
