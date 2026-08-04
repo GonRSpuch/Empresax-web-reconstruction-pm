@@ -64,6 +64,4 @@ Liderar la reestructuración integral del sitio web e-commerce de una empresa de
 
 ---
 
-## 📊 Flujo de Trabajo en Trello (Kanban)
-
-![Tablero de Trello](trello1.png)
+![Tablero Trello](trello-empresa-x.png)
