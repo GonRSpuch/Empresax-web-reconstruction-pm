@@ -6,7 +6,7 @@
 ![Google Analytics 4](https://img.shields.io/badge/GA4-Tracking%20Plan-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Role-Project%20Manager%20%2F%20Product%20Owner-blue?style=flat-square)
 
-**Gonzalo Rodriguez Spuch** — *Project Management / Product Ownership Portfolio Project* – 2026
+**Gonzalo Rodriguez Spuch** — * Aspirante a Project Management Junior / Product Ownership Junior - Portfolio Project* – 2026
 
 ---
 
