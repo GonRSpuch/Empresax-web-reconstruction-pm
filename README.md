@@ -37,6 +37,36 @@ Este proyecto fue diseñado en torno a tres objetivos estratégicos orientados a
 * Diseñar el plan de medición de eventos en **Google Analytics 4 (GA4)** para evaluar la adopción del portal y el embudo de conversión.
 * Establecer un modelo de gobernanza que garantice la entregabilidad dentro del presupuesto y plazos acordados.
 
+---
+
+## 3. Estructura del Proyecto y Herramientas (Project Framework & Artifacts)
+
+La gestión y documentación de este proyecto se estructuró a través de un ecosistema de herramientas de Project Management para garantizar la trazabilidad, la colaboración fluida y la alineación entre las partes interesadas (Stakeholders) y el equipo técnico.
+
+### Documentación Central (Notion)
+
+Es el repositorio principal de conocimiento del proyecto donde se centralizó la estrategia y la definición funcional:
+* **Project Charter:** Define la justificación del negocio, los objetivos estratégicos, el alcance inicial, las restricciones y los criterios de éxito de la reestructuración web.
+* **PRD (Documento de Requerimientos de Producto):** Detalla las especificaciones funcionales B2C y B2B, los flujos de usuario, las historias de usuario (*User Stories*) y las reglas de negocio para el canal de agencias.
+* **Arquitectura de Información (IA):** Mapeo de la navegación del sitio, jerarquía de páginas y mapas de experiencia de usuario (User Journeys).
+
+### Estructura de Desglose de Trabajo (WBS)
+
+Herramienta jerárquica utilizada para descomponer el proyecto a 8 semanas en bloques de trabajo gestionables:
+* **Módulos Funcionales:** Investigación & Estrategia, Experiencia de Usuario (UX/UI), Desarrollo WordPress, Portal B2B, Integraciones y Calidad (QA).
+* **Entregables Medibles:** Cada paquete de trabajo cuenta con criterios de aceptación claros y entregables definidos para eliminar la ambigüedad en la fase de desarrollo.
+
+### Gestión Ágil de Flujos (Trello Kanban)
+
+Tablero visual utilizado para la planificación y seguimiento del backlog de ejecución:
+* **Flujo de Trabajo (Workflow):** Organizado en columnas de *Backlog, En Proceso (In Progress), En Revisión/QA (Review)* y *Completado (Done)*.
+* **Asignación de Tareas:** Tarjetas de tareas derivadas de la WBS con etiquetas por nivel de prioridad, dependencias técnicas y listas de verificación (*Checklists*).
+
+### Métricas & Control de Calidad (Google Analytics 4 & QA)
+
+Plan de medición y trazabilidad diseñado para validar el rendimiento del nuevo portal:
+* **Plan de Eventos GA4:** Mapeo de eventos personalizados para medir la conversión del embudo B2C y la adopción del portal B2B por parte de las agencias.
+* **Matriz QA:** Lista de comprobación para pruebas funcionales, rendimiento *mobile* y validación de flujos comerciales antes de la puesta en producción.
 
 ---
 
