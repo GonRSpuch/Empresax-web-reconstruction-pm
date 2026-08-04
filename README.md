@@ -10,7 +10,7 @@
 
 ![Project Management](https://img.shields.io/badge/Role-Project%20Manager%20%2F%20Product%20Owner-blue?style=flat-square)
 
-**Gonzalo Rodriguez Spuch** — * Aspirante a Project Management Junior / Product Ownership Junior - Portfolio Project* – 2026
+**Gonzalo Rodriguez Spuch** — *Aspirante a Project Management Junior / Product Ownership Junior - Portfolio Project* – 2026
 
 ---
 
@@ -121,6 +121,7 @@ Toda la estructura metodológica, el Project Charter, la WBS y las capturas de l
 * **Analítica & Calidad:** Google Analytics 4 (GA4) para plan de medición de eventos y matriz de pruebas QA.
 
 ---
+
 ## 6. Control de Contingencias y Riesgos
 
 Partiendo de la investigación inicial completada, se identificaron los principales cuellos de botella del proyecto y sus planes de acción para cumplir con las 8 semanas de plazo:
@@ -193,8 +194,8 @@ Liderar la reestructuración integral del sitio web e-commerce de una empresa de
 - [ ] Pruebas de usabilidad mobile y testeo del flujo de reserva de agencias.
 - [ ] Validación final con Dirección y paso a producción.
 
-
-
 ---
+
 ## 8. Tablero de Gestión (Trello Kanban)
+
 ![Tablero Trello](trello-empresa-x.png)
