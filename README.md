@@ -10,7 +10,7 @@
 
 ![Project Management](https://img.shields.io/badge/Role-Project%20Manager%20%2F%20Product%20Owner-blue?style=flat-square)
 
-**Gonzalo Rodriguez Spuch** — *Aspirante a Project Management Junior / Product Ownership Junior - Portfolio Project* – 2026
+**Gonzalo Rodriguez Spuch** —– 2026
 
 ---
 
